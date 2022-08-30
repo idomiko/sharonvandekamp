@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sharonvandekamp/static/css/main.8d7b8053.css",
+    "main.js": "/sharonvandekamp/static/js/main.49ee0948.js",
+    "static/js/787.657b92f6.chunk.js": "/sharonvandekamp/static/js/787.657b92f6.chunk.js",
+    "static/media/LogoJPG.jpg": "/sharonvandekamp/static/media/LogoJPG.2fee844504e90e3d64f7.jpg",
+    "index.html": "/sharonvandekamp/index.html",
+    "main.8d7b8053.css.map": "/sharonvandekamp/static/css/main.8d7b8053.css.map",
+    "main.49ee0948.js.map": "/sharonvandekamp/static/js/main.49ee0948.js.map",
+    "787.657b92f6.chunk.js.map": "/sharonvandekamp/static/js/787.657b92f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d7b8053.css",
+    "static/js/main.49ee0948.js"
+  ]
+}

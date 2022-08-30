@@ -1,0 +1,7 @@
+.imageSlider {
+    grid-area: image;
+    justify-self: end;
+    margin-top: 1vh;
+    max-width: 50vh;
+}
+
