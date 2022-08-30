@@ -1,0 +1,8 @@
+.Tilt {
+    grid-area: logo;
+    position: fixed;
+}
+
+.logoImg {
+    width: 10vw;
+}
