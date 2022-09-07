@@ -1,13 +1,13 @@
-import React, { Component } from 'react';
-import TopButton from './components/TopButton/TopButton';
-import RightButton from './components/RightButton/RightButton';
-import Logo from './components/Logo/Logo'
-import ImageSlider from './components/ImageSlider/ImageSlider'
-import './App.css';
+import React, { Component } from "react";
+import TopButton from "./components/TopButton/TopButton";
+import RightButton from "./components/RightButton/RightButton";
+import Logo from "./components/Logo/Logo";
+import ImageSlider from "./components/ImageSlider/ImageSlider";
+import "./App.css";
 
 class App extends Component {
-  render () {
-    return (    
+  render() {
+    return (
       <div className="App">
         <TopButton />
         <RightButton />

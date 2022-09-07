@@ -1,40 +1,40 @@
 .RightNav {
-    grid-area: rightButton;
-    justify-self: end;
-    margin-right: 1vw;
+  grid-area: rightButton;
+  justify-self: end;
+  margin-right: 1vw;
 }
 
 .rightText {
-    margin: auto;
-    right: 1vw;
+  margin: auto;
+  right: 1vw;
 }
 
 .rightArrows {
-    width: 60px;
-    height: 72px;
-    transform: rotate(270deg);
-    pointer-events: none;
+  width: 60px;
+  height: 72px;
+  transform: rotate(270deg);
+  pointer-events: none;
 }
 
 .rightArrows path {
-    stroke: white;
-    fill: transparent;
-    stroke-width: 1px;	
-    animation: arrow 2s infinite;
-    -webkit-animation: arrow 2s infinite; 
+  stroke: white;
+  fill: transparent;
+  stroke-width: 1px;
+  animation: arrow 2s infinite;
+  -webkit-animation: arrow 2s infinite;
 }
 
 .rightArrows path.a1 {
-    animation-delay:-1s;
-    -webkit-animation-delay:-1s; /* Safari 和 Chrome */
+  animation-delay: -1s;
+  -webkit-animation-delay: -1s; /* Safari 和 Chrome */
 }
-  
+
 .rightArrows path.a2 {
-    animation-delay:-0.5s;
-    -webkit-animation-delay:-0.5s; /* Safari 和 Chrome */
+  animation-delay: -0.5s;
+  -webkit-animation-delay: -0.5s; /* Safari 和 Chrome */
 }
-  
-.rightArrows path.a3 {	
-    animation-delay:0s;
-    -webkit-animation-delay:0s; /* Safari 和 Chrome */
+
+.rightArrows path.a3 {
+  animation-delay: 0s;
+  -webkit-animation-delay: 0s; /* Safari 和 Chrome */
 }
